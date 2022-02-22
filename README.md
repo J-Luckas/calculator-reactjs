@@ -1,5 +1,5 @@
 # Calculator project
 
-## yarn / npm install
+### yarn / npm install
 
-## yarn / npm start
+### yarn / npm start
